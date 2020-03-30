@@ -1,4 +1,4 @@
-# SaturdaysAI: El reto del barco Titanic
+# SaturdaysAI: El desafío del Titanic
 **Machine Learning from Disaster of Kaggle**
 
 ## Integrantes:
